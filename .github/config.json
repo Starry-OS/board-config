@@ -1,6 +1,6 @@
 {
   "targets": [
-    "aarch64-unknown-none-softfloat"
+    "riscv64gc-unknown-none-elf"
   ],
   "rust_components": [
     "rust-src",
